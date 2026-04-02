@@ -188,3 +188,84 @@ Zbog dostupne besplatne verzije i jednostavnog sučelja, Bitwarden je posebno pr
 * napredne korisnike koji žele veću kontrolu nad sigurnošću
 
 Istovremeno, napredne opcije omogućuju i profesionalnu primjenu u poslovnom okruženju.
+
+Na temelju strukture vašeg dokumenta i kvizova koje ste pripremili, evo razrađenog sadržaja za **Modul 2**. Sadržaj je strukturiran tako da izravno priprema polaznike za pitanja o izradi računa, sučelju i generatoru lozinki.
+
+-----
+
+# **Modul 2: Bitwarden sučelje i generiranje lozinki**
+
+## **1. Izrada korisničkog računa (8 min)**
+
+**Izvori:**
+
+  - [https://bitwarden.com/help/create-your-account/](https://www.google.com/search?q=https://bitwarden.com/help/create-your-account/)
+  - [https://bitwarden.com/help/master-password/](https://bitwarden.com/help/master-password/)
+
+### **Prvi koraci i sigurnosna pravila**
+
+Izrada Bitwarden računa prvi je korak prema potpunoj kontroli nad vašom digitalnom sigurnošću. Proces započinje registracijom e-mail adrese, ali ključni element zaštite vaših podataka događa se u trenutku kreiranja **Master lozinke**.
+
+Bitwarden ne zahtijeva unos suvišnih osobnih podataka poput broja telefona, jer se njegova sigurnost temelji na snažnoj enkripciji, a ne na prikupljanju podataka.
+
+### **Važnost Master lozinke**
+
+Postavljanje snažne Master lozinke najkritičniji je korak pri izradi računa. Budući da Bitwarden koristi **Zero-Knowledge** arhitekturu, vaša lozinka se nikada ne šalje na njihove servere u čitljivom obliku.
+
+**Što se događa ako zaboravite Master lozinku?**
+
+  * **Gubitak pristupa:** Ako zaboravite Master lozinku, a niste prethodno spremili ili zapisali svoj **sigurnosni ključ (Recovery Key)**, vaši podaci postaju trajno nedostupni.
+  * **Nema resetiranja:** Za razliku od uobičajenih web stranica, Bitwarden podrška **ne može** resetirati vašu lozinku niti vam je poslati na e-mail jer je oni jednostavno ne znaju.
+
+### **Password Hint (Podsjetnik)**
+
+Prilikom izrade računa nudi vam se opcija "Password Hint". To nije zamjenska lozinka, već kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozinke ako zapnete. On je javan u smislu da ga sustav može poslati na vaš e-mail, stoga nikada nemojte upisivati samu lozinku kao podsjetnik.
+
+-----
+
+## **2. Bitwarden sučelje (5.5 min)**
+
+**Izvor:**
+
+  - [https://bitwarden.com/help/vault-guide/](https://www.google.com/search?q=https://bitwarden.com/help/vault-guide/)
+
+### **Upoznavanje s elementima sučelja**
+
+Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujući brz pristup svim alatima. Glavni dijelovi koje ćete svakodnevno koristiti su:
+
+  * **My Vault (Moj trezor):** Središnje mjesto gdje se nalazi lista svih vaših spremljenih elemenata (lozinke, kartice, bilješke).
+  * **Gumb "+" (Add Item):** Nalazi se u gornjem ili donjem kutu (ovisno o uređaju) i služi za ručno dodavanje novog zapisa u trezor.
+  * **Generator:** Poseban tab ili alat namijenjen brzom stvaranju novih, kompleksnih lozinki.
+  * **Settings (Postavke):** Ovdje upravljate tehničkim postavkama računa, mijenjate jezik sučelja ili omogućujete dodatne sigurnosne opcije poput dvorazinske autentifikacije (2FA).
+
+-----
+
+## **3. Generiranje lozinki pomoću Bitwardena (12 min)**
+
+**Izvori:**
+
+  - [https://bitwarden.com/help/generator/](https://bitwarden.com/help/generator/)
+  - [https://bitwarden.com/password-generator/](https://bitwarden.com/password-generator/)
+
+### **Kako funkcionira Bitwarden generator?**
+
+Generator lozinki je alat koji eliminira potrebu da sami smišljate lozinke. On osigurava da svaka vaša lozinka bude otporna na napade pogađanjem (brute force) kombinirajući veliku duljinu i raznolikost znakova.
+
+### **Vrste generiranih zapisa**
+
+Unutar generatora možete birati između dva glavna formata:
+
+1.  **Password (Lozinka):** Niz nasumičnih znakova (npr. `g7#K9!vL2p$m`). Ovo je najsigurnija opcija za većinu servisa.
+2.  **Passphrase (Lozinka u obliku fraze):** Niz nasumičnih riječi (npr. `kruh-oblak-planina-sunce`). Lakše se pamti i prepisuje, a i dalje nudi visoku razinu sigurnosti zbog svoje duljine.
+
+### **Napredne postavke generatora**
+
+Kako biste prilagodili lozinku zahtjevima različitih web stranica, možete koristiti dodatne opcije:
+
+  * **Duljina lozinke:** Preporučuje se minimalno 12-16 znakova.
+  * **Avoid Ambiguous Characters (Izbjegni dvosmislene znakove):** Ova opcija isključuje znakove koji slično izgledaju (npr. broj `0` i slovo `O`, ili malo `l` i broj `1`), što olakšava ručno prepisivanje ako je potrebno.
+  * **Generiranje korisničkih imena:** Bitwarden također može generirati nasumična korisnička imena ili e-mail aliase, što dodatno štiti vašu privatnost.
+
+### **Analiza sigurnosti**
+
+Smatrajte lozinku poput `g7#K9!vL2p$m` standardom sigurnosti. Jednostavne lozinke poput `Ljeto2024` ili `Korisnik123!` podložne su napadima rječnikom i lako se pogađaju, bez obzira na to što sadrže jedno veliko slovo ili uskličnik. Pravu snagu daje isključivo **nasumičnost** koju pruža generator.
