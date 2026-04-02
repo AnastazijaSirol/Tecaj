@@ -33,7 +33,7 @@ Obuhvaća:
 
 Cilj upravljanja lozinkama je osigurati da svaki korisnički račun ima jedinstvenu i sigurnu lozinku, uz minimalno opterećenje korisnika u svakodnevnom radu. Time se postiže ravnoteža između sigurnosti i praktičnosti.
 
-### **Loše prakse upravljanja lozinkama i njihovi rizici**
+### **Loše prakse upravljanja lozinkama**
 
 Zbog kompleksnosti upravljanja velikim brojem lozinki često se koriste nesigurne metode koje pojednostavljuju pristup, ali značajno povećavaju sigurnosne rizike.
 
@@ -64,7 +64,6 @@ Posljedice takvih napada mogu uključivati:
 
 Jedna sigurnosna slabost na manje važnom servisu može tako dovesti do ozbiljnih posljedica na ključnim korisničkim računima.
 
-
 ## **Prednosti korištenja password managera (7 min)**
 
 **Izvori:**
@@ -91,7 +90,7 @@ Karakteristike MASTER lozinke:
 
 Ovakav model omogućuje korištenje velikog broja kompleksnih lozinki bez potrebe za njihovim pamćenjem.
 
-### **Ključne sigurnosne i funkcionalne prednosti**
+### **Prednosti korištenja password managera**
 
 #### **1. Generiranje snažnih i jedinstvenih lozinki**
 
