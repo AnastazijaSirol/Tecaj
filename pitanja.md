@@ -109,13 +109,13 @@ b) Ne, generator radi isključivo sa simbolima i brojevima.
 ## Zadatak
 Odaberite ispravan pojam za svaku tvrdnju:
 
-Kada želite spremiti novu lozinku za web stranicu, koristite opciju unutar Trezora.  
-Za bolju preglednost, zapise unutar trezora možemo organizirati u Mape (Folders).  
-Ako radite u timu, lozinku sigurno dijelite putem Organizacije.  
+Kada želite spremiti novu lozinku za web stranicu, koristite opciju unutar **Trezora**.  
+Za bolju preglednost, zapise unutar trezora možemo organizirati u **Mape (Folders)**.  
+Ako radite u timu, lozinku sigurno dijelite putem **Organizacije**.  
 
-Dijeljenje unutar organizacije omogućuje administratoru preciznu KONTROLU PRISTUPA (tko može vidjeti ili uređivati lozinku).  
+Dijeljenje unutar organizacije omogućuje administratoru preciznu **KONTROLU PRISTUPA** (tko može vidjeti ili uređivati lozinku).  
 
-Za privremeno i sigurno slanje tekstualnih informacija ili datoteka trećim osobama koristi se alat Bitwarden Send.  
+Za privremeno i sigurno slanje tekstualnih informacija ili datoteka trećim osobama koristi se alat **Bitwarden Send**.  
 
 ---
 
