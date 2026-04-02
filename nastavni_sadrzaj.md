@@ -2,6 +2,14 @@
 
 ## **Izazovi upravljanja velikim brojem lozinki (5 min)**
 
+**Izvori:**
+
+- https://pages.nist.gov/800-63-3/sp800-63b.html
+
+- https://www.wpshealth.com/blog/?p=choosing-and-protecting-passwords
+
+- https://cheatsheetseries.owasp.org/cheatsheets/Credential_Stuffing_Prevention_Cheat_Sheet.html
+
 ### **Zašto danas postoji veliki broj korisničkih računa?**
 
 U suvremenom digitalnom okruženju gotovo svaka usluga zahtijeva stvaranje korisničkog računa. To uključuje osnovne digitalne alate poput e-maila i komunikacijskih platformi, ali i širok spektar dodatnih usluga kao što su društvene mreže, online bankarstvo, web trgovine, sustavi za učenje te mnoge druge.
@@ -58,6 +66,14 @@ Jedna sigurnosna slabost na manje važnom servisu može tako dovesti do ozbiljni
 
 
 ## **Prednosti korištenja password managera (7 min)**
+
+**Izvori:**
+
+- https://ssd.eff.org/module/creating-strong-passwords
+
+- https://bitwarden.com/help/bitwarden-security-white-paper/
+
+- https://bitwarden.com/compliance/
 
 ### **Što je password manager i kako štiti podatke?**
 
