@@ -59,15 +59,42 @@ a) Bitwarden podrška će vam poslati novu lozinku na e-mail.
 b) Vaši podaci postaju trajno nedostupni zbog enkripcije.  
 
 ---
+Pitanje 3
+Koja je uloga opcije "Password Hint" prilikom izrade Bitwarden računa?
 
-## 2. Drag & Drop (Bitwarden sučelje) # ADD 2-3 more parts of interface
+a) To je zamjenska lozinka koja se koristi ako glavna lozinka ne radi.
 
-**Zadatak:** Korisnik uparuje pojmove s ikonama na slici Bitwarden sučelja: 
+b) To je kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozinke.
 
-My Vault: Lista svih spremljenih elemenata.  
-Gumb "+": Dodavanje novog zapisa.  
-Generator: Alat za stvaranje lozinki.  
-Settings: Tehničke postavke računa.  
+c) To je lozinka koju šaljete Bitwarden podršci kako bi vam otključali račun.
+
+---
+Pitanje 4
+Zašto Bitwarden podrška ne može resetirati vašu Master lozinku ako je zaboravite?
+
+a) Zbog "Zero-Knowledge" arhitekture, sustav uopće ne zna vašu lozinku niti joj može pristupiti.
+
+b) Zato što je to usluga koja se dodatno naplaćuje u premium paketu.
+
+c) Zato što je za resetiranje potreban fizički pristup vašem računalu od strane administratora.
+
+
+2. Drag & Drop (Bitwarden sučelje / Interface)
+
+Zadatak: Korisnik uparuje pojmove s ikonama ili sekcijama na slici Bitwarden sučelja:
+My Vault (Moj trezor): Središnja lista svih vaših spremljenih elemenata (lozinke, bilješke, kartice).
+
+Gumb "+" (Add Item): Ikona za ručno dodavanje novog zapisa u vaš trezor.
+
+Generator: Alat namijenjen brzom stvaranju novih, kompleksnih i nasumičnih lozinki.
+
+Settings (Postavke): Mjesto za upravljanje jezikom, sigurnosnim opcijama i dvorazinskom autentifikacijom (2FA).
+
+Search (Pretraživanje): Polje na vrhu ekrana koje služi za brzi pronalazak spremljene lozinke upisivanjem naziva servisa.
+
+Filters/Folders (Mape): Lijevi izbornik koji služi za organizaciju zapisa po kategorijama (npr. Posao, Privatno).
+
+Send: Poseban alat za sigurno i privremeno slanje tekstualnih informacija ili datoteka trećim osobama.
 
 ---
 
@@ -97,6 +124,17 @@ Može li Bitwarden generator, osim klasičnih lozinki, kreirati i "passphrases" 
 
 a) Da, to je opcija unutar generatora.  
 b) Ne, generator radi isključivo sa simbolima i brojevima.  
+
+---
+
+Pitanje 3
+Što se postiže uključivanjem opcije "Avoid Ambiguous Characters" u postavkama generatora?
+
+a) Generator će izbaciti sve simbole i ostaviti samo slova i brojeve.
+
+b) Iz lozinke će biti uklonjeni znakovi koji slično izgledaju (npr. nula 0 i slovo O) kako bi se spriječile pogreške pri čitanju. 
+
+c) Lozinka će postati kraća od 8 znakova radi lakšeg pamćenja.
 
 ---
 
