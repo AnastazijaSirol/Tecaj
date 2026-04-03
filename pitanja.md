@@ -42,7 +42,7 @@ c) Onemogućuje korisniku da uopće otvori sumnjive e-mailove.
 
 ---
 
-## 1. Formativna provjera (Izrada računa)
+## 1. Formativna provjera (Izrada računa) # ADD 2 more questions
 
 ### Pitanje 1
 Koji je kritičan korak pri izradi Bitwarden računa koji osigurava zaštitu podataka?
@@ -60,9 +60,9 @@ b) Vaši podaci postaju trajno nedostupni zbog enkripcije.
 
 ---
 
-## 2. Drag & Drop (Bitwarden sučelje)
+## 2. Drag & Drop (Bitwarden sučelje) # ADD 2-3 more parts of interface
 
-**Zadatak:** Korisnik uparuje pojmove s ikonama na slici Bitwarden sučelja:
+**Zadatak:** Korisnik uparuje pojmove s ikonama na slici Bitwarden sučelja: 
 
 My Vault: Lista svih spremljenih elemenata.  
 Gumb "+": Dodavanje novog zapisa.  
@@ -71,9 +71,9 @@ Settings: Tehničke postavke računa.
 
 ---
 
-## 3. Analiza primjera i H5P Kviz
+## 3. Analiza primjera i H5P Kviz 
 
-### Analiza (Multiple Choice)
+### Analiza (Multiple Choice) # Add 3 more
 Koja od navedenih lozinki generiranih u Bitwardenu je najsigurnija prema postavkama (dužina, simboli, brojevi)?
 
 a) Ljeto2024  
@@ -82,7 +82,7 @@ c) g7#K9!vL2p$m
 
 ---
 
-### H5P Kviz
+### H5P Kviz # Add 1 more
 
 #### Pitanje 1
 Prilikom korištenja generatora, što osigurava da lozinka bude otporna na pogađanje?
