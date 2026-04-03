@@ -42,7 +42,7 @@ c) Onemogućuje korisniku da uopće otvori sumnjive e-mailove.
 
 ---
 
-## 1. Formativna provjera (Izrada računa) # ADD 2 more questions
+## 1. Formativna provjera (Izrada računa)
 
 ### Pitanje 1
 Koji je kritičan korak pri izradi Bitwarden računa koji osigurava zaštitu podataka?
@@ -59,7 +59,8 @@ a) Bitwarden podrška će vam poslati novu lozinku na e-mail.
 b) Vaši podaci postaju trajno nedostupni zbog enkripcije.  
 
 ---
-Pitanje 3
+
+### Pitanje 3
 Koja je uloga opcije "Password Hint" prilikom izrade Bitwarden računa?
 
 a) To je zamjenska lozinka koja se koristi ako glavna lozinka ne radi.
@@ -69,7 +70,8 @@ b) To je kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozi
 c) To je lozinka koju šaljete Bitwarden podršci kako bi vam otključali račun.
 
 ---
-Pitanje 4
+
+### Pitanje 4
 Zašto Bitwarden podrška ne može resetirati vašu Master lozinku ako je zaboravite?
 
 a) Zbog "Zero-Knowledge" arhitekture, sustav uopće ne zna vašu lozinku niti joj može pristupiti.
