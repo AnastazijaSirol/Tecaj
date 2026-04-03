@@ -1,5 +1,3 @@
----
-
 # Modul 1: Izazovi i prednosti password managera
 **Format:** Multiple choice i nadopunjavanje
 
