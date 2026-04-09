@@ -269,3 +269,130 @@ Kako biste prilagodili lozinku zahtjevima različitih web stranica, možete kori
 ### **Analiza sigurnosti**
 
 Smatrajte lozinku poput `g7#K9!vL2p$m` standardom sigurnosti. Jednostavne lozinke poput `Ljeto2024` ili `Korisnik123!` podložne su napadima rječnikom i lako se pogađaju, bez obzira na to što sadrže jedno veliko slovo ili uskličnik. Pravu snagu daje isključivo **nasumičnost** koju pruža generator.
+
+-----
+
+# **Modul 3: Organizacija i dijeljenje lozinki u Bitwardenu**
+
+## **Lekcija 1 – Spremanje lozinki u Bitwardenu (7 min)**
+
+**Izvori:**
+
+- https://bitwarden.com/help/add-item/
+- https://bitwarden.com/help/edit-item/
+- https://bitwarden.com/help/browser-extension/
+- https://www.techrepublic.com/article/how-to-use-bitwarden-password-manager/
+
+Spremanje lozinki u Bitwardenu jedna je od najvažnijih radnji koje korisnik obavlja u svakodnevnom radu. Bitwarden trezor (Vault) služi kao centralno mjesto u kojem se čuvaju sve lozinke, bilješke i drugi osjetljivi podaci. Kada želite spremiti novu lozinku za web stranicu, koristite opciju unutar trezora.
+
+### **Dodavanje novog zapisa**
+
+Novi zapis u Bitwardenu može se dodati ručno ili automatski putem preglednika. Ručno dodavanje koristi se kada već imate lozinku koju želite spremiti. U trezoru odaberete **Add Item** i zatim birate vrstu zapisa, najčešće **Login**.
+
+Potrebno je unijeti:
+
+- naziv  
+- URL stranice  
+- korisničko ime  
+- lozinku  
+
+Bitwarden nudi generator lozinki, pa se preporučuje kreirati jaku lozinku i odmah je spremiti. Nakon spremanja, zapis postaje dio vašeg trezora i dostupan je na svim uređajima.
+
+Automatsko dodavanje događa se kada se prijavite na novu web stranicu. Bitwarden će prepoznati unos i ponuditi spremanje. Ova funkcionalnost ubrzava rad i smanjuje mogućnost pogreške.
+
+### **Uređivanje postojećih zapisa**
+
+S vremenom se lozinke mijenjaju, pa je važno znati kako ažurirati postojeće zapise. U trezoru pronađete željeni zapis, otvorite ga i odaberete **Edit**. Možete promijeniti lozinku, korisničko ime, URL ili dodati bilješke. Nakon spremanja, sve promjene automatski se sinkroniziraju.
+
+Uređivanje je ključno za održavanje točnosti podataka, posebno kada se radi o poslovnim računima koji se redovito rotiraju.
+
+### **Korištenje postojećih zapisa**
+
+Korištenje spremljenih lozinki najčešće se odvija kroz Bitwarden ekstenziju u pregledniku. Kada posjetite web stranicu za koju imate zapis, Bitwarden će automatski ponuditi popunjavanje podataka.
+
+Dovoljno je kliknuti na ikonu ekstenzije i odabrati odgovarajući zapis. Ovo značajno ubrzava prijavu i smanjuje rizik od phishinga jer Bitwarden popunjava podatke samo na točnom URL-u koji je spremljen u zapisu.
+
+Korisnici također mogu kopirati lozinku ili korisničko ime iz trezora, ali preporučuje se koristiti automatsko popunjavanje kako bi se izbjeglo izlaganje podataka.
+
+---
+
+## **Lekcija 2 – Organiziranje lozinki u trezoru**
+
+**Izvori:**
+
+- https://bitwarden.com/help/folders/
+- https://bitwarden.com/help/manage-items/
+
+Kako broj zapisa raste, organizacija postaje ključna za učinkovit rad. Bitwarden omogućuje jednostavno grupiranje zapisa u mape (folders).
+
+### **Organizacija zapisa u mape**
+
+Mape služe kao logičke kategorije — primjerice:
+
+- Posao  
+- Privatno  
+- Bankarstvo  
+- Razvoj  
+- Društvene mreže  
+
+Prilikom dodavanja ili uređivanja zapisa, možete ga smjestiti u željenu mapu. Mape ne utječu na sigurnost, ali značajno poboljšavaju navigaciju, posebno kada korisnik ima desetke ili stotine zapisa.
+
+Korisnici mogu stvarati nove mape u bilo kojem trenutku. Preporučuje se izbjegavati prevelik broj mapa i umjesto toga koristiti jasne, široke kategorije.
+
+### **Pretraživanje zapisa u trezoru**
+
+Bitwarden ima vrlo učinkovitu tražilicu koja pretražuje nazive, URL-ove i druge podatke unutar zapisa. Pretraživanje je najbrži način pronalaska lozinke, posebno kada niste sigurni u kojoj se mapi zapis nalazi.
+
+Dovoljno je upisati dio naziva ili domene, a rezultati se prikazuju odmah. Ova funkcionalnost je ključna za korisnike koji rade s velikim brojem računa i žele izbjeći ručno pregledavanje mapa.
+
+---
+
+## **Lekcija 3 – Dijeljenje lozinka u timu**
+
+**Izvori:**
+
+- https://bitwarden.com/help/about-organizations/
+- https://bitwarden.com/help/collections/
+- https://bitwarden.com/help/share-items/
+- https://bitwarden.com/help/send/
+
+U poslovnom okruženju često postoji potreba za sigurnim dijeljenjem lozinki. Bitwarden to omogućuje putem organizacije, što je besplatna funkcionalnost namijenjena timovima i manjim grupama.
+
+### **Bitwarden organizacije**
+
+Organizacija je zajednički prostor u kojem više korisnika može pristupiti određenim lozinkama. Svaki korisnik ima svoj osobni trezor, ali organizacija omogućuje dijeljenje zapisa bez slanja lozinki putem nesigurnih kanala.
+
+Unutar organizacije postoje uloge koje određuju tko može dodavati, uređivati ili dijeliti zapise. Upravo zato dijeljenje unutar organizacije omogućuje administratoru preciznu kontrolu pristupa.
+
+### **Dijeljenje lozinki**
+
+Dijeljenje se obavlja tako da se zapis iz osobnog trezora premjesti ili klonira u kolekciju unutar organizacije. Članovi organizacije koji imaju pristup toj kolekciji mogu koristiti zapis, ali ne moraju nužno vidjeti lozinku ako im to nije dopušteno.
+
+Ovo je idealno za timove koji koriste zajedničke račune, ali žele ograničiti vidljivost lozinki.
+
+### **Upravljanje pristupom**
+
+Administrator organizacije određuje tko ima pristup kojoj kolekciji. Pristup može biti samo za korištenje ili i za uređivanje. Ovakav model omogućuje sigurnu suradnju i smanjuje rizik od pogrešnog dijeljenja osjetljivih podataka.
+
+### **Bitwarden Send**
+
+Za privremeno i sigurno slanje informacija trećim osobama koristi se alat **Bitwarden Send**. Send omogućuje slanje teksta ili datoteka uz vremensko ograničenje i opcionalnu lozinku. Primatelj ne mora imati Bitwarden račun.
+
+Ovo je idealno za jednokratno dijeljenje podataka koji ne trebaju ostati u organizaciji.
+
+---
+
+## **Interaktivni video**
+
+| VRIJEME       | SADRŽAJ            | VIZUALNI ELEMENT        | NAPOMENA               |
+|--------------|--------------------|--------------------------|------------------------|
+| 0:00 – 0:15  | uvod u temu        | naslov + uvodna slika    | predstavljanje teme    |
+| 0:15 – 1:30  | praktičan primjer  | snimka procesa           | detaljno objašnjenje   |
+| 1:30 – 2:00  | ponavljanje teme   | interaktivno ponavljanje | ponavljanje            |
+
+---
+
+## **Formativna procjena znanja**
+
+Formativna procjena znanja u ovom modulu će biti **H5P Fill in the Blanks**. Procijenjeno trajanje ove provjere je 4 minute. Pitanja unutar procjene znanja će pokriti materijale iz svih lekcija unutar modula.
+
