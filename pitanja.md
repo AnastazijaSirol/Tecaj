@@ -9,7 +9,7 @@ Koji je najveći sigurnosni rizik kod korištenja iste lozinke za više različi
 * b) Kompromitacija jednog računa ugrožava sve ostale račune s istom lozinkom.
 * c) Sustav će automatski blokirati takvu lozinku.
 
-* Odgovor: b)
+Odgovor: b)
 
 Glavna prednost password managera je što korisnik treba zapamtiti samo jednu, snažnu **MASTER** lozinku.
 
@@ -18,14 +18,14 @@ Glavna prednost password managera je što korisnik treba zapamtiti samo jednu, s
 * b) Generiranje kompleksnih i nasumičnih lozinki.
 * c) Potpuna eliminacija potrebe za bilo kakvom autentifikacijom.
 
-* Odgovor: c)
+Odgovor: c)
 
 Kako password manager pomaže u borbi protiv phishing napada (lažnih stranica)?
 * a) Automatski prijavljuje napadača policiji.
 * b) Neće ponuditi automatsko popunjavanje lozinke ako URL adresa stranice nije ispravna.
 * c) Onemogućuje korisniku da uopće otvori sumnjive e-mailove.
 
-* Odgovor: b)
+Odgovor: b)
 
 ---
 
@@ -39,27 +39,27 @@ Koji je kritičan korak pri izradi Bitwarden računa koji osigurava zaštitu pod
 * a) Unos broja telefona.
 * b) Postavljanje snažne Master lozinke.
 
-* Odgovor: b)
+Odgovor: b)
   
 Što se događa ako zaboravite svoju Master lozinku, a niste spremili sigurnosni ključ?
 * a) Bitwarden podrška će vam poslati novu lozinku na e-mail.
 * b) Vaši podaci postaju trajno nedostupni zbog enkripcije.
 
-* Odgovor: b)
+Odgovor: b)
 
 Koja je uloga opcije "Password Hint" prilikom izrade Bitwarden računa?
 * a) To je zamjenska lozinka koja se koristi ako glavna lozinka ne radi.
 * b) To je kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozinke.
 * c) To je lozinka koju šaljete Bitwarden podršci kako bi vam otključali račun.
 
-* Odgovor: b)
+Odgovor: b)
 
 Zašto Bitwarden podrška ne može resetirati vašu Master lozinku ako je zaboravite?
 * a) Zbog "Zero-Knowledge" arhitekture, sustav uopće ne zna vašu lozinku niti joj može pristupiti.
 * b) Zato što je to usluga koja se dodatno naplaćuje u premium paketu.
 * c) Zato što je za resetiranje potreban fizički pristup vašem računalu od strane administratora.
 
-* Odgovor: a)
+Odgovor: a)
 
 ## 2. Drag & Drop
 
@@ -82,28 +82,28 @@ Koja od navedenih lozinki je najsigurnija prema postavkama (dužina, simboli, br
 * b) Korisnik123!
 * c) g7#K9!vL2p$m
 
-* Odgovor: c)
+Odgovor: c)
 
 Što od navedenog bitno utječe na "entropiju" (snagu) lozinke u generatoru?
 * a) Boja pozadine sučelja.
 * b) Duljina niza i uključivanje različitih setova znakova (velika/mala slova, brojevi, simboli).
 * c) Brzina kojom je korisnik kliknuo na gumb "Generate".
 
-* Odgovor: b)
+Odgovor: b)
 
 Ako stranica zahtijeva lozinku koja se lako čita preko telefona, koju opciju u generatoru je najbolje odabrati?
 * a) Password s maksimalnim brojem simbola.
 * b) Passphrase (niz nasumičnih riječi).
 * c) Isključivanje svih brojeva.
 
-* Odgovor: b)
+Odgovor: b)
 
 Koji je preporučeni minimalni broj znakova za sigurnu lozinku u Bitwardenu?
 * a) 4 do 6 znakova.
 * b) 8 znakova.
 * c) 12 ili više znakova.
 
-* Odgovor: c)
+Odgovor: c)
 
 ### H5P Quiz
 
@@ -111,20 +111,20 @@ Prilikom korištenja generatora, što osigurava da lozinka bude otporna na poga�
 * a) Korištenje samo malih slova.
 * b) Kombinacija velike duljine i raznolikosti znakova.
 
-* Odgovor: b)
+Odgovor: b)
 
 Može li Bitwarden generator, osim klasičnih lozinki, kreirati i "passphrases" (nizove nasumičnih riječi)?
 * a) Da, to je opcija unutar generatora.
 * b) Ne, generator radi isključivo sa simbolima i brojevima.
 
-* Odgovor: a)
+Odgovor: a)
 
 Što se postiže uključivanjem opcije "Avoid Ambiguous Characters" u postavkama generatora?
 * a) Generator će izbaciti sve simbole i ostaviti samo slova i brojeve.
 * b) Iz lozinke će biti uklonjeni znakovi koji slično izgledaju (npr. 0 i O) radi lakšeg čitanja.
 * c) Lozinka će postati kraća od 8 znakova.
 
-* Odgovor: a)
+Odgovor: a)
 
 ---
 
