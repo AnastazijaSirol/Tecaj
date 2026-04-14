@@ -240,6 +240,20 @@ Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujuć
 
 -----
 
+## **Interaktivni video**
+
+| VRIJEME       | SADRŽAJ            | VIZUALNI ELEMENT        | NAPOMENA               |
+|--------------|--------------------|--------------------------|------------------------|
+| 0:00 – 0:20  | uvod u temu        | naslov + uvodna slika    | predstavljanje teme    |
+| 0:20 – 1:30  | praktičan primjer  | upoznavanje Bitwardena   | detaljno objašnjenje   |
+| 1:30 – 2:30  | praktičan primjer  | osnovne funkcionalnosti  | detaljno objašnjenje   |
+| 2:30 – 4:30  | praktičan primjer  | spremanje lozinki        | detaljno objašnjenje   |
+| 4:30 – 5:30  | praktičan primjer  | organizacija lozinki     | detaljno objašnjenje   |
+| 5:30 – 6:30  | praktičan primjer  | generiranje lozinki      | detaljno objašnjenje   |
+| 6:30 – 7:00  | ponavljlanje teme  | interaktivno ponavljanje | ponavljanje            |
+
+-----
+
 ## **3. Generiranje lozinki pomoću Bitwardena (12 min)**
 
 **Izvori:**
