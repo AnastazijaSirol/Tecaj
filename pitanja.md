@@ -71,7 +71,7 @@ Uparite pojmove s odgovarajućim ikonama ili sekcijama sučelja:
 * **Filters/Folders (Mape):** Lijevi izbornik koji služi za organizaciju zapisa po kategorijama.
 * **Send:** Alat za sigurno i privremeno slanje informacija ili datoteka trećim osobama.
 
-## Analiza primjera i H5P Kviz
+## Analiza primjera & H5P Quiz
 
 ### Analiza primjera
 
