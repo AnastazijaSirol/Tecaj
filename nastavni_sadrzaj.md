@@ -189,8 +189,6 @@ Zbog dostupne besplatne verzije i jednostavnog sučelja, Bitwarden je posebno pr
 
 Istovremeno, napredne opcije omogućuju i profesionalnu primjenu u poslovnom okruženju.
 
-Na temelju strukture vašeg dokumenta i kvizova koje ste pripremili, evo razrađenog sadržaja za **Modul 2**. Sadržaj je strukturiran tako da izravno priprema polaznike za pitanja o izradi računa, sučelju i generatoru lozinki.
-
 -----
 
 # **Modul 2: Bitwarden sučelje i generiranje lozinki**
