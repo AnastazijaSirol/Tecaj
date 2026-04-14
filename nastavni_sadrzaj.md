@@ -189,7 +189,7 @@ Zbog dostupne besplatne verzije i jednostavnog sučelja, Bitwarden je posebno pr
 
 Istovremeno, napredne opcije omogućuju i profesionalnu primjenu u poslovnom okruženju.
 
------
+---
 
 # **Modul 2: Bitwarden sučelje i generiranje lozinki**
 
@@ -219,8 +219,6 @@ Postavljanje snažne Master lozinke najkritičniji je korak pri izradi računa. 
 
 Prilikom izrade računa nudi vam se opcija "Password Hint". To nije zamjenska lozinka, već kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozinke ako zapnete. On je javan u smislu da ga sustav može poslati na vaš e-mail, stoga nikada nemojte upisivati samu lozinku kao podsjetnik.
 
------
-
 ## **2. Bitwarden sučelje (5.5 min)**
 
 **Izvor:**
@@ -236,8 +234,6 @@ Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujuć
   * **Generator:** Poseban tab ili alat namijenjen brzom stvaranju novih, kompleksnih lozinki.
   * **Settings (Postavke):** Ovdje upravljate tehničkim postavkama računa, mijenjate jezik sučelja ili omogućujete dodatne sigurnosne opcije poput dvorazinske autentifikacije (2FA).
 
------
-
 ## **Interaktivni video**
 
 | VRIJEME       | SADRŽAJ            | VIZUALNI ELEMENT        | NAPOMENA               |
@@ -249,8 +245,6 @@ Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujuć
 | 4:30 – 5:30  | praktičan primjer  | organizacija lozinki     | detaljno objašnjenje   |
 | 5:30 – 6:30  | praktičan primjer  | generiranje lozinki      | detaljno objašnjenje   |
 | 6:30 – 7:00  | ponavljlanje teme  | interaktivno ponavljanje | ponavljanje            |
-
------
 
 ## **3. Generiranje lozinki pomoću Bitwardena (12 min)**
 
@@ -326,8 +320,6 @@ Dovoljno je kliknuti na ikonu ekstenzije i odabrati odgovarajući zapis. Ovo zna
 
 Korisnici također mogu kopirati lozinku ili korisničko ime iz trezora, ali preporučuje se koristiti automatsko popunjavanje kako bi se izbjeglo izlaganje podataka.
 
----
-
 ## **Lekcija 2 – Organiziranje lozinki u trezoru**
 
 **Izvori:**
@@ -356,8 +348,6 @@ Korisnici mogu stvarati nove mape u bilo kojem trenutku. Preporučuje se izbjega
 Bitwarden ima vrlo učinkovitu tražilicu koja pretražuje nazive, URL-ove i druge podatke unutar zapisa. Pretraživanje je najbrži način pronalaska lozinke, posebno kada niste sigurni u kojoj se mapi zapis nalazi.
 
 Dovoljno je upisati dio naziva ili domene, a rezultati se prikazuju odmah. Ova funkcionalnost je ključna za korisnike koji rade s velikim brojem računa i žele izbjeći ručno pregledavanje mapa.
-
----
 
 ## **Lekcija 3 – Dijeljenje lozinka u timu**
 
@@ -392,19 +382,11 @@ Za privremeno i sigurno slanje informacija trećim osobama koristi se alat **Bit
 
 Ovo je idealno za jednokratno dijeljenje podataka koji ne trebaju ostati u organizaciji.
 
----
-
 ## **Interaktivni video**
 
 | VRIJEME       | SADRŽAJ            | VIZUALNI ELEMENT        | NAPOMENA               |
 |--------------|--------------------|--------------------------|------------------------|
 | 0:00 – 0:15  | uvod u temu        | naslov + uvodna slika    | predstavljanje teme    |
-| 0:15 – 1:30  | praktičan primjer  | snimka procesa           | detaljno objašnjenje   |
+| 0:15 – 1:30  | praktičan primjer  | dijeljenje lozinki       | detaljno objašnjenje   |
 | 1:30 – 2:00  | ponavljanje teme   | interaktivno ponavljanje | ponavljanje            |
-
----
-
-## **Formativna procjena znanja**
-
-Formativna procjena znanja u ovom modulu će biti **H5P Fill in the Blanks**. Procijenjeno trajanje ove provjere je 4 minute. Pitanja unutar procjene znanja će pokriti materijale iz svih lekcija unutar modula.
 
