@@ -244,8 +244,8 @@ Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujuć
 
 | VRIJEME       | SADRŽAJ            | VIZUALNI ELEMENT        | NAPOMENA               |
 |--------------|--------------------|--------------------------|------------------------|
-| 0:00 – 0:20  | uvod u temu        | naslov + uvodna slika    | predstavljanje teme    |
-| 0:20 – 1:30  | praktičan primjer  | upoznavanje Bitwardena   | detaljno objašnjenje   |
+| 0:00 – 0:30  | uvod u temu        | naslov + uvodna slika    | predstavljanje teme    |
+| 0:30 – 1:30  | praktičan primjer  | upoznavanje Bitwardena   | detaljno objašnjenje   |
 | 1:30 – 2:30  | praktičan primjer  | osnovne funkcionalnosti  | detaljno objašnjenje   |
 | 2:30 – 4:30  | praktičan primjer  | spremanje lozinki        | detaljno objašnjenje   |
 | 4:30 – 5:30  | praktičan primjer  | organizacija lozinki     | detaljno objašnjenje   |
