@@ -2,8 +2,6 @@
 
 **Format:** Quiz (3 min)
 
-## 1. Provjera znanja
-
 Koji je najveći sigurnosni rizik kod korištenja iste lozinke za više različitih korisničkih računa?
 * a) Teže ju je zapamtiti.
 * b) Kompromitacija jednog računa ugrožava sve ostale račune s istom lozinkom.
@@ -33,7 +31,7 @@ Odgovor: b)
 
 **Format:** Pitanja u lekciji (3 min), Drag & Drop (5 min), Analiza primjera & H5P Quiz (7 min)
 
-## 1. Pitanja u lekciji
+## Pitanja u lekciji
 
 Koji je kritičan korak pri izradi Bitwarden računa koji osigurava zaštitu podataka?
 * a) Unos broja telefona.
@@ -61,9 +59,9 @@ Zašto Bitwarden podrška ne može resetirati vašu Master lozinku ako je zabora
 
 Odgovor: a)
 
-## 2. Drag & Drop
+## Drag & Drop
 
-**Zadatak:** Uparite pojmove s odgovarajućim ikonama ili sekcijama sučelja:
+Uparite pojmove s odgovarajućim ikonama ili sekcijama sučelja:
 
 * **My Vault (Moj trezor):** Središnja lista svih vaših spremljenih elemenata (lozinke, bilješke, kartice).
 * **Gumb "+" (Add Item):** Ikona za ručno dodavanje novog zapisa u vaš trezor.
@@ -73,7 +71,7 @@ Odgovor: a)
 * **Filters/Folders (Mape):** Lijevi izbornik koji služi za organizaciju zapisa po kategorijama.
 * **Send:** Alat za sigurno i privremeno slanje informacija ili datoteka trećim osobama.
 
-## 3. Analiza primjera i H5P Kviz
+## Analiza primjera i H5P Kviz
 
 ### Analiza primjera
 
