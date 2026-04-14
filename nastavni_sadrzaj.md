@@ -193,7 +193,7 @@ Istovremeno, napredne opcije omogućuju i profesionalnu primjenu u poslovnom okr
 
 # **Modul 2: Bitwarden sučelje i generiranje lozinki**
 
-## **1. Izrada korisničkog računa (8 min)**
+## **Izrada korisničkog računa (8 min)**
 
 **Izvori:**
 
@@ -219,7 +219,7 @@ Postavljanje snažne Master lozinke najkritičniji je korak pri izradi računa. 
 
 Prilikom izrade računa nudi vam se opcija "Password Hint". To nije zamjenska lozinka, već kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozinke ako zapnete. On je javan u smislu da ga sustav može poslati na vaš e-mail, stoga nikada nemojte upisivati samu lozinku kao podsjetnik.
 
-## **2. Bitwarden sučelje (15 min)**
+## **Bitwarden sučelje (15 min)**
 
 **Izvor:**
 
@@ -246,7 +246,7 @@ Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujuć
 | 5:30 – 6:30  | praktičan primjer  | generiranje lozinki      | detaljno objašnjenje   |
 | 6:30 – 7:00  | ponavljlanje teme  | interaktivno ponavljanje | ponavljanje            |
 
-## **3. Generiranje lozinki pomoću Bitwardena (12 min)**
+## **Generiranje lozinki pomoću Bitwardena (12 min)**
 
 **Izvori:**
 
@@ -280,7 +280,7 @@ Smatrajte lozinku poput `g7#K9!vL2p$m` standardom sigurnosti. Jednostavne lozink
 
 # **Modul 3: Organizacija i dijeljenje lozinki u Bitwardenu**
 
-## **Lekcija 1 – Spremanje lozinki u Bitwardenu (7 min)**
+## **Spremanje lozinki u Bitwardenu (7 min)**
 
 **Izvori:**
 
@@ -320,7 +320,7 @@ Dovoljno je kliknuti na ikonu ekstenzije i odabrati odgovarajući zapis. Ovo zna
 
 Korisnici također mogu kopirati lozinku ili korisničko ime iz trezora, ali preporučuje se koristiti automatsko popunjavanje kako bi se izbjeglo izlaganje podataka.
 
-## **Lekcija 2 – Organiziranje lozinki u trezoru**
+## **Organiziranje lozinki u trezoru (5 min)**
 
 **Izvori:**
 
@@ -349,7 +349,7 @@ Bitwarden ima vrlo učinkovitu tražilicu koja pretražuje nazive, URL-ove i dru
 
 Dovoljno je upisati dio naziva ili domene, a rezultati se prikazuju odmah. Ova funkcionalnost je ključna za korisnike koji rade s velikim brojem računa i žele izbjeći ručno pregledavanje mapa.
 
-## **Lekcija 3 – Dijeljenje lozinka u timu**
+## **Dijeljenje lozinka u timu (7 min)**
 
 **Izvori:**
 
@@ -382,7 +382,7 @@ Za privremeno i sigurno slanje informacija trećim osobama koristi se alat **Bit
 
 Ovo je idealno za jednokratno dijeljenje podataka koji ne trebaju ostati u organizaciji.
 
-## **Interaktivni video**
+## **Interaktivni video (2 min)**
 
 | VRIJEME       | SADRŽAJ            | VIZUALNI ELEMENT        | NAPOMENA               |
 |--------------|--------------------|--------------------------|------------------------|
