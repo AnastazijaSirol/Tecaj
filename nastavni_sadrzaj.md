@@ -234,7 +234,7 @@ Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujuć
   * **Generator:** Poseban tab ili alat namijenjen brzom stvaranju novih, kompleksnih lozinki.
   * **Settings (Postavke):** Ovdje upravljate tehničkim postavkama računa, mijenjate jezik sučelja ili omogućujete dodatne sigurnosne opcije poput dvorazinske autentifikacije (2FA).
 
-## **Interaktivni video**
+### **Interaktivni video**
 
 | VRIJEME       | SADRŽAJ            | VIZUALNI ELEMENT        | NAPOMENA               |
 |--------------|--------------------|--------------------------|------------------------|
