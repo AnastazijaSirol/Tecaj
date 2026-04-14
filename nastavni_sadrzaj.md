@@ -244,7 +244,7 @@ Sučelje Bitwardena dizajnirano je da bude jednostavno i pregledno, omogućujuć
 | 2:30 – 4:30  | praktičan primjer  | spremanje lozinki        | detaljno objašnjenje   |
 | 4:30 – 5:30  | praktičan primjer  | organizacija lozinki     | detaljno objašnjenje   |
 | 5:30 – 6:30  | praktičan primjer  | generiranje lozinki      | detaljno objašnjenje   |
-| 6:30 – 7:00  | ponavljlanje teme  | interaktivno ponavljanje | ponavljanje            |
+| 6:30 – 7:00  | ponavljanje teme  | interaktivno ponavljanje | ponavljanje            |
 
 ## **Generiranje lozinki pomoću Bitwardena (12 min)**
 
