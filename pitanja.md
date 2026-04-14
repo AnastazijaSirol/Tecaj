@@ -1,65 +1,67 @@
 # Modul 1: Izazovi i prednosti password managera
-**Format:** Multiple choice i nadopunjavanje
 
----
+**Format:** Quiz (3 min)
 
 ## 1. Provjera znanja
 
-### Pitanje 1
 Koji je najveći sigurnosni rizik kod korištenja iste lozinke za više različitih korisničkih računa?
 * a) Teže ju je zapamtiti.
 * b) Kompromitacija jednog računa ugrožava sve ostale račune s istom lozinkom.
 * c) Sustav će automatski blokirati takvu lozinku.
 
-### Pitanje 2 (Dopuni)
+* Odgovor: b)
+
 Glavna prednost password managera je što korisnik treba zapamtiti samo jednu, snažnu **MASTER** lozinku.
 
-### Pitanje 3
 Što od navedenog NIJE prednost korištenja password managera?
 * a) Automatsko popunjavanje prijavnih podataka.
 * b) Generiranje kompleksnih i nasumičnih lozinki.
 * c) Potpuna eliminacija potrebe za bilo kakvom autentifikacijom.
 
-### Pitanje 4
+* Odgovor: c)
+
 Kako password manager pomaže u borbi protiv phishing napada (lažnih stranica)?
 * a) Automatski prijavljuje napadača policiji.
 * b) Neće ponuditi automatsko popunjavanje lozinke ako URL adresa stranice nije ispravna.
 * c) Onemogućuje korisniku da uopće otvori sumnjive e-mailove.
 
+* Odgovor: b)
+
 ---
 
 # Modul 2: Bitwarden sučelje i generiranje lozinki
-**Format:** Pitanja u lekciji, Drag & Drop, H5P Quiz
 
----
+**Format:** Pitanja u lekciji (3 min), Drag & Drop (5 min), Analiza primjera & H5P Quiz (7 min)
 
-## 1. Formativna provjera (Izrada računa)
+## 1. Pitanja u lekciji
 
-### Pitanje 1
 Koji je kritičan korak pri izradi Bitwarden računa koji osigurava zaštitu podataka?
 * a) Unos broja telefona.
 * b) Postavljanje snažne Master lozinke.
 
-### Pitanje 2
+* Odgovor: b)
+  
 Što se događa ako zaboravite svoju Master lozinku, a niste spremili sigurnosni ključ?
 * a) Bitwarden podrška će vam poslati novu lozinku na e-mail.
 * b) Vaši podaci postaju trajno nedostupni zbog enkripcije.
 
-### Pitanje 3
+* Odgovor: b)
+
 Koja je uloga opcije "Password Hint" prilikom izrade Bitwarden računa?
 * a) To je zamjenska lozinka koja se koristi ako glavna lozinka ne radi.
 * b) To je kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozinke.
 * c) To je lozinka koju šaljete Bitwarden podršci kako bi vam otključali račun.
 
-### Pitanje 4
+* Odgovor: b)
+
 Zašto Bitwarden podrška ne može resetirati vašu Master lozinku ako je zaboravite?
 * a) Zbog "Zero-Knowledge" arhitekture, sustav uopće ne zna vašu lozinku niti joj može pristupiti.
 * b) Zato što je to usluga koja se dodatno naplaćuje u premium paketu.
 * c) Zato što je za resetiranje potreban fizički pristup vašem računalu od strane administratora.
 
----
+* Odgovor: a)
 
-## 2. Drag & Drop (Bitwarden sučelje / Interface)
+## 2. Drag & Drop
 
 **Zadatak:** Uparite pojmove s odgovarajućim ikonama ili sekcijama sučelja:
 
@@ -71,76 +73,78 @@ Zašto Bitwarden podrška ne može resetirati vašu Master lozinku ako je zabora
 * **Filters/Folders (Mape):** Lijevi izbornik koji služi za organizaciju zapisa po kategorijama.
 * **Send:** Alat za sigurno i privremeno slanje informacija ili datoteka trećim osobama.
 
----
-
 ## 3. Analiza primjera i H5P Kviz
 
-### Analiza (Multiple Choice)
+### Analiza primjera
 
-**Pitanje 1**
 Koja od navedenih lozinki je najsigurnija prema postavkama (dužina, simboli, brojevi)?
 * a) Ljeto2024
 * b) Korisnik123!
 * c) g7#K9!vL2p$m
 
-**Pitanje 2**
+* Odgovor: c)
+
 Što od navedenog bitno utječe na "entropiju" (snagu) lozinke u generatoru?
 * a) Boja pozadine sučelja.
 * b) Duljina niza i uključivanje različitih setova znakova (velika/mala slova, brojevi, simboli).
 * c) Brzina kojom je korisnik kliknuo na gumb "Generate".
 
-**Pitanje 3**
+* Odgovor: b)
+
 Ako stranica zahtijeva lozinku koja se lako čita preko telefona, koju opciju u generatoru je najbolje odabrati?
 * a) Password s maksimalnim brojem simbola.
 * b) Passphrase (niz nasumičnih riječi).
 * c) Isključivanje svih brojeva.
 
-**Pitanje 4**
+* Odgovor: b)
+
 Koji je preporučeni minimalni broj znakova za sigurnu lozinku u Bitwardenu?
 * a) 4 do 6 znakova.
 * b) 8 znakova.
 * c) 12 ili više znakova.
 
----
+* Odgovor: c)
 
-### H5P Kviz
+### H5P Quiz
 
-**Pitanje 1**
 Prilikom korištenja generatora, što osigurava da lozinka bude otporna na pogađanje?
 * a) Korištenje samo malih slova.
 * b) Kombinacija velike duljine i raznolikosti znakova.
 
-**Pitanje 2**
+* Odgovor: b)
+
 Može li Bitwarden generator, osim klasičnih lozinki, kreirati i "passphrases" (nizove nasumičnih riječi)?
 * a) Da, to je opcija unutar generatora.
 * b) Ne, generator radi isključivo sa simbolima i brojevima.
 
-**Pitanje 3**
+* Odgovor: a)
+
 Što se postiže uključivanjem opcije "Avoid Ambiguous Characters" u postavkama generatora?
 * a) Generator će izbaciti sve simbole i ostaviti samo slova i brojeve.
 * b) Iz lozinke će biti uklonjeni znakovi koji slično izgledaju (npr. 0 i O) radi lakšeg čitanja.
 * c) Lozinka će postati kraća od 8 znakova.
 
+* Odgovor: a)
+
 ---
 
 # Modul 3: Spremanje, organizacija i dijeljenje
-**Format:** Fill in the blanks (Padajući izbornik)
 
----
+**Format:** Fill in the blanks
 
-## 1. Zadatak
 Odaberite ispravan pojam za svaku tvrdnju:
 
 * Kada želite spremiti novu lozinku za web stranicu, koristite opciju unutar **Trezora**.
 * Za bolju preglednost, zapise unutar trezora možemo organizirati u **Mape (Folders)**.
 * Ako radite u timu, lozinku sigurno dijelite putem **Organizacije**.
-* Dijeljenje unutar organizacije omogućuje administratoru preciznu **KONTROLU PRISTUPA**.
+* Dijeljenje unutar organizacije omogućuje administratoru preciznu **kontrolu pristupa**.
 * Za privremeno i sigurno slanje informacija trećim osobama koristi se alat **Bitwarden Send**.
 
 ---
 
 # Završni test: Sveobuhvatno upravljanje lozinkama
-**Format:** Sumativna procjena (20 pitanja)
+
+**Format:** Sumativna procjena (15 min)
 
 ---
 
