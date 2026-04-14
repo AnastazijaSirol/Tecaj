@@ -219,7 +219,7 @@ Postavljanje snažne Master lozinke najkritičniji je korak pri izradi računa. 
 
 Prilikom izrade računa nudi vam se opcija "Password Hint". To nije zamjenska lozinka, već kratki podsjetnik koji vam može pomoći da se sami sjetite Master lozinke ako zapnete. On je javan u smislu da ga sustav može poslati na vaš e-mail, stoga nikada nemojte upisivati samu lozinku kao podsjetnik.
 
-## **2. Bitwarden sučelje (5.5 min)**
+## **2. Bitwarden sučelje (15 min)**
 
 **Izvor:**
 
